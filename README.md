@@ -1,3 +1,3 @@
 # SiteSenacMobile
 
-## Com um web view transformando o site do Senac em um aplicativo funcional.
+## Com um WebView transformando o site do Senac em um aplicativo funcional.
